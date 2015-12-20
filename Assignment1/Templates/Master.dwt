@@ -21,7 +21,7 @@
       <tr>
       	<td class ="nav_text"><a href="../index.html"  style="text-decoration:none;" class="nav_text" >Home</a></td>
         <td class="nav_text"><a href="../AboutVolleyball.html" style="text-decoration:none;" class="nav_text ">About Volleyball</a></td>
-        <td class="nav_text"><a href="../Ladder.html" style="text-decoration:none;" class "nav_text">Ladder</a></td>
+        <td class="nav_text"><a href="../Ladder.html" style="text-decoration:none;" class ="nav_text">Ladder</a></td>
         <td class="nav_text"><a href="../WhoCanPlay.html" style="text-decoration:none;" class="nav_text">Who can Play</a></td>
         <td class="nav_text"><a href="../JoinUs.html" style="text-decoration:none;" class="nav_text">Join Us</a></td>
         <td class="nav_text"><a href="../Contact.html" style="text-decoration:none" class="nav_text">Contact</a></td>
