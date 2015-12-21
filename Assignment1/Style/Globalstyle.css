@@ -73,7 +73,8 @@
 	float: left;
 	font-size: 16px;
 	text-align: center;
-	margin-bottom:15px;
+	margin:auto;
+	/*position:fixed;*/
 }
 
 .Heading {
@@ -138,4 +139,10 @@
 }
 #container #maincontent p #picture {
 	left: auto;
+}
+
+.picture {
+	float: left;
+	padding-right: 15px;
+	padding-bottom: 30px;
 }
